@@ -10,14 +10,34 @@ Live resume editor.
 ![chakraui](https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white)&nbsp;
 
 Extras: React-To-Print
+## 🚀 Getting Started
 
-**Deployed On:**
+### Prerequisites
+- Node.js (v14 or higher)
+- npm or yarn package manager
 
-![netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+### Installation
 
-## Sneak  Peek of Home Page 🙈 :
+1. **Clone the repository**
+git clone https://github.com/iammaryam24/ResumeGenerator.git
+cd ResumeGenerator
 
-![smartmockups_kyk0u3hp](https://user-images.githubusercontent.com/64949957/159115313-ae8bf72c-2a79-425d-8520-32b6ba3e0fcf.jpg)
+_Install dependencies_
+npm install
+# or
+yarn install
 
+_Start the development server_
+npm start
+# or
+yarn start
+
+_Open in browser_
+Visit http://localhost:3000 to view the app.
+
+📦 Build for Production
+npm run build
+# or
+yarn build
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
